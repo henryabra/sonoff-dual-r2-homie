@@ -15,8 +15,8 @@
 #define RELAY2_EXT_PIN      0
 
 //Relay Configuration
-#define RELAY1_ID "office-light"
-#define RELAY2_ID "corridor-light"
+#define RELAY1_ID "relay1"
+#define RELAY2_ID "relay2"
 
 Relay *relay1;
 Relay *relay2;
